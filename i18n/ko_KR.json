@@ -117,7 +117,7 @@
         "label": "구독한 채널의 광고만을 허용"
     },
     "player_hfr": {
-        "label": "고 프레임 레이트 (60fps) 스트리밍 허용"
+        "label": "HFR (60fps) 스트리밍 허용"
     },
     "player_memorize_size": {
         "label": "플레이어 크기를 기억하기"
